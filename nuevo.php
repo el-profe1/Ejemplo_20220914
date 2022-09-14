@@ -1,3 +1,3 @@
 <?php
-	echo "Hola mundo";
+	echo "Buenos días aprendices";
 ?>
